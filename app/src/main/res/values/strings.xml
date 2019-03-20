@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">homework1</string>
+    <string name="dog">dog</string>
+    <string name="hello_world">hello world</string>
+    <string name="button">button</string>
+    <string name="放大">big</string>
+    <string name="bigger">bigger</string>
+</resources>
